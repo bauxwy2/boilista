@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1,PREMIERE BOI 2
 http://37.139.13.25:8080/loadbalance/sat2/l_106472_125792025_26185.ts
+#EXTINF:-1,GLOBO
+http://188.226.156.27:64054/loadbalance/boborj/l_117833_17374450_5789.ts
+#EXTINF:-1,GLOBO 2
+http://188.226.156.27:80/loadbalance/boborj/l_117833_17374450_5789.ts
+#EXTINF:-1,GLOBO 3
+http://188.226.156.27:8080/loadbalance/boborj/l_117833_17374450_5789.ts
